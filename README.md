@@ -41,19 +41,23 @@ Original Top 5 School
 Another plus side from this data replacement is that it did not change the math and reading scores by grade. Granted, both the average math and reading score summaries were stratisfied by school and grade level. As shown above, the summary tables display "NaN" for ninth grade at Thomas High School whereas the remaining data remained intact.
 
 New Math Thomas High School 9th grade scores
+
 ![](https://github.com/nadiezhdamhb/School_District_Analysis/blob/main/new%20math%20scores.png)
 
 
 New Reading Thomas High School 9th grade scores
+
 ![](https://github.com/nadiezhdamhb/School_District_Analysis/blob/main/new%20reading%20scores.png)
 
 
 
 Original Math Thomas High School 9th grade scores
+
 ![](https://github.com/nadiezhdamhb/School_District_Analysis/blob/main/original%20Math%20scores.png)
 
 
 Original Reading Thomas High School 9th grade scores
+
 ![](https://github.com/nadiezhdamhb/School_District_Analysis/blob/main/original%20Reading%20scores.png)
 
 
