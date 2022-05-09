@@ -19,9 +19,9 @@ Results: Using bulleted lists and images of DataFrames as support, address the f
 
 ## District Summary
 Original
-![School District Summary]original district summary.png
+![School District Summary](original district summary.png)
 New
-![School District Summary]New district summary.png
+![School District Summary](New district summary.png)
 
 How is the school summary affected?
 How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
