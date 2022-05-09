@@ -20,7 +20,7 @@ Results: Using bulleted lists and images of DataFrames as support, address the f
 ## District Summary
 The average math score and passing percentages and the overall passing percentage among the 15 high schools in the school district changed, the average math score dropped 1.9%, the average reading score stayed the same, the percentage passing math dropped 1.8%, the percentage passing reading dropped 1.7%, and the overall passing percent dropped 1.9%.
 
-![New_District_summary](New district summary.png)
+![](New district summary.png)
 
 
 ## School Summary
