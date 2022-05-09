@@ -42,16 +42,25 @@ Another plus side from this data replacement is that it did not change the math 
 
 New Math Thomas High School 9th grade scores
 ![](https://github.com/nadiezhdamhb/School_District_Analysis/blob/main/new%20math%20scores.png)
+
+
 New Reading Thomas High School 9th grade scores
 ![](https://github.com/nadiezhdamhb/School_District_Analysis/blob/main/new%20reading%20scores.png)
 
+
+
 Original Math Thomas High School 9th grade scores
 ![](https://github.com/nadiezhdamhb/School_District_Analysis/blob/main/original%20Math%20scores.png)
+
+
 Original Reading Thomas High School 9th grade scores
 ![](https://github.com/nadiezhdamhb/School_District_Analysis/blob/main/original%20Reading%20scores.png)
 
+
 ## Scores by school spending
 When reviewing the School Spending summary, this data change did not impact the spending ranges for either the average math scores or average reading scores. 
+
+
 New School Spending
 ![](https://github.com/nadiezhdamhb/School_District_Analysis/blob/main/new%20school%20spending.png)
 
@@ -61,6 +70,8 @@ Original School Spending
 
 ## Scores by school size
 When reviewing the School Size summary, removing the ninth grade scores did not affect the average math and reading scores, but it did affect the passing percentages for medium-sized schools. In this category, % passing math, % passing reading, and % overall passing dropped. Before the data change, the School Size summary showed that medium-sized school had a high performance compared to small and large schools. Given the data change, medium size school are the second in performance.
+
+
 New School Size
 ![](https://github.com/nadiezhdamhb/School_District_Analysis/blob/main/new%20school%20size.png)
 
