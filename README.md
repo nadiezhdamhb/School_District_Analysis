@@ -20,6 +20,9 @@ Results: Using bulleted lists and images of DataFrames as support, address the f
 ## District Summary
 The average math score and passing percentages and the overall passing percentage among the 15 high schools in the school district changed, the average math score dropped 1.9%, the average reading score stayed the same, the percentage passing math dropped 1.8%, the percentage passing reading dropped 1.7%, and the overall passing percent dropped 1.9%.
 
+![New_District_summary](New district summary.png)
+
+
 ## School Summary
 
 When assessing school summaries and performing schools, the score replacements did affect the ranking of the top five performing schools. Thomas High School ranked second place in the top five performing schools with a 91% overall passing. After replacing both math and reading scores, Thomas High School was taken out of the top five category since they now display a 65% overall passing. On the plus side, these changes did not place Thomas High School among the bottom five performing schools. Those ranks remained the same. Per the revised School Summary, Thomas High School now ranks 8th place among 15 high schools in the district.
